@@ -1,0 +1,5 @@
+cd
+mkdir 
+nano
+touch {1..23}
+
